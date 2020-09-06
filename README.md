@@ -6,7 +6,7 @@ Pour tester l'application, vous pouvez directement installer Note_Pad.apk sur vo
 
 Pour utiliser l'application vous pouvez appuyer en bas à droite de l'écran sur l'icône plus.
 
-![](https://raw.githubusercontent.com/raphael-maillard/Note_Pad/master/plus.JPG?token=AMRXFUGZXNJIJXZZA5QCAES7KTPJS)
+![](https://raw.githubusercontent.com/raphael-maillard/Note_Pad/master/plus.JPG)
 
 Vous choissisiez mettre un titre à votre note ou pas.
 
@@ -15,11 +15,11 @@ Vous choissisiez mettre un titre à votre note ou pas.
 
 Appuyer sur l'icône disquette en haut à droite pour enregistrer la note ou sur la corbeille pour supprimer.
 
-![](https://raw.githubusercontent.com/raphael-maillard/Note_Pad/master/manage-note.JPG?token=AMRXFUA63KCGFJWWKU6ENBK7KTPL2)
+![](https://raw.githubusercontent.com/raphael-maillard/Note_Pad/master/manage-note.JPG)
 
 
 ### Liste de note 
 
 Lorsque vous sauvegardez ou supprimez une note vous retourner à la page d'accueil de l'application avec la liste des notes enregistrées.
 
-![](https://raw.githubusercontent.com/raphael-maillard/Note_Pad/master/List.jpg?token=AMRXFUGFCVX6AFFR4LHFYQ27KTP3U)
+![](https://raw.githubusercontent.com/raphael-maillard/Note_Pad/master/list.JPG)
